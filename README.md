@@ -1,15 +1,13 @@
-[README (2).md](https://github.com/user-attachments/files/25734734/README.2.md)
-<h1align="center">嗨👋，我是陳炳樺</h1>
-<h3align="center">我想說的前人說過的</h3>
+<h1 align="center">Hi 👋, I'm 陳炳樺</h1>
+<h3 align="center">我想要說的前人們說過了</h3>
 
-- 🔭我目前正在做**arknight**
+- 🔭 I’m currently working on **arknight**
 
-- 🌱我目前正在學習**肥胖管理**
+- 🌱 I’m currently learning **航運管理**
 
-- 📫如何联系我**114bst.
+- 📫 How to reach me **114b06273@mailst.cjcu.edu.tw**
 
-<h3align="left">聯絡我：</h3>
-<palign="left">
-<a href="https://instagram.com/pobby.chen.51865" target="blank"><imgalign="center"src="https://raw.githubusercontent.com/rahuldkjain/github-program​​y/mepithm/meet/mepith alt="pobby.chen.51865" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pobby.chen.51865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pobby.chen.51865" height="30" width="40" /></a>
 </p>
-
