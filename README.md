@@ -1,16 +1,16 @@
-# 114b06273[README.md](https://github.com/user-attachments/files/25734580/README.md)
-<h1 align="center">Hi 👋, I'm 陳炳樺</h1>
-<h3 align="center">我想要說的前人們說過了</h3>
+[README.md](https://github.com/user-attachments/files/25734670/README.md)
+<h1align="center">嗨👋，我是陳炳樺</h1>
+<h3align="center">我想說的前人說過的</h3>
 
-- 🔭 I’m currently working on **arknight**
+- 🔭我目前正在做**arknight**
 
-- 🌱 I’m currently learning **航運管理**
+- 🌱我目前正在學習**肥胖管理**
 
-- 📫 How to reach me **114b06273@mailst.cjcu.edu.tw**
+- 📫如何联系我**114bst.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pobby chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pobby chen" height="30" width="40" /></a>
-<a href="https://instagram.com/pobby.chen.51865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pobby.chen.51865" height="30" width="40" /></a>
+<h3align="left"> 聯絡我：</h3>
+<palign="left">
+<a href="https://fb.com/pobby.chen.1" target="blank"><imgalign="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-profile-表/master/master/immm/iconpfilep. alt="pobby.chen.1" height="30" width="40" /></a>
+<a href="https://instagram.com/pobby.chen.51865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pobby.chen.51865" height="30" width="40" /></a> </p> width="40" /></a>
 </p>
 
